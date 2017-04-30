@@ -12,3 +12,6 @@ Na pasta <b>Carros</b> você pode ver o projeto dos Carros concluído. Em cada z
 O arquivo <b>res.zip</b> contém o arquivo zip com as imagens e recursos utilizadas no projeto dos carros.
 
 <img src="http://livroandroid.com.br/imgs/livro_android.png" />
+
+
+Para ver como compila os programa ler neste site -> http://ricardolecheta.com.br/?p=538
